@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "atomic-key-273611",
+  "private_key_id": "8a5180854a6790c44b5343898217641090249423",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCvQHmFNUv5zXeQ\nFgdGpHRStK0QkDqqBoqjTq7C/yKqYcmH+iY6SOfrpJSLhD9Oa+t1qtIO1D+959+N\nxQ7dHzxAgujvRm8p6w7rWsa18aJXv2TNrnLwXmeDnttZmkuonHaOiaA0SyzKVUAR\nd/PyIFH4HZioUBgmmQr1/nYEM/sJ5x9AvvYASnhhPj6ZHJSkhN9Xf80I+YrtWEsg\nXQc3cmarsmbF4+AcO4h8vVeTWAZSkN/Yig3422uLq7HDVRjj6BDw/rfykI/7/ZJo\n0oTDjZExxZGU/EzPlsyi5+CG1h5dtdw1T9ymh/Wfn0QrCvCM4mwRSGpGTpv9PdZM\nghhLKvGJAgMBAAECggEAAf2wURH5+l0qFZwYdPt0j7Ak3gZYx5p3gVOJIvw8IAso\ncNfnzrD0wzhdZdMzbGrHs/skM94CWOAX3zU88128hPTvxvB0s26rvq2rSlZzzD3S\nMXorl7KSMrxk5yOnJnkw6XLju+sFjTQS0aKnG0oLIFpcDqp1Rx1P6Bud/94kJO3t\n7ZFJOTLZyhdXa55ucE1usglEaMbC1PKrM3kuuf99JfWKvLfbyp7Xh/ejIIx/oMZf\nHL7qI8o5bpra04Hs/tDGH7GlUidGOLK1GOp5qpC5ROZ+swKk0HkQyTmwvmbbCDUr\nkAxuVGQTDJ6ZIr4J0SNnKfHVlnJuF9hXp2Dskhc1kQKBgQD3txR8SLK6SujlAfeV\neAzCZ38Fs4EBlgYbofgZSnkTEGZuxynOUw99pP+ZkpbnCQ3BUgklfTN3qCIF6mBy\nUA1D9Fwo51nKg1rMdO8ccJsh8C12z5rc/+rXwKSag08MiznC5pRb/gMh+Jo3xJDt\nb4nwLGfkBBBIYezOvTCXxXvQeQKBgQC1HPgKD9GC0v8zaN0WMAYEgd+0BWYao94E\noycvZJkAlpNC7vL4kGhZBC5uNkrPglweTIAsgamfyzLgX2xj9l8OGPOkPpIAooIJ\nM6jBWWOHCdv6VYQcHmThOmhNwuje4lT7BI1Tw1P6zB4aib7x9l+kwzmJwgtA0OfJ\nm5VtUdOFkQKBgGAApUDRj+rhE0eFrqVP5GoHYFQeUFYEBZP5/sQWd7vqtDgkmdAr\noqpIIwMqq68YdCtDFuZfkm3CTIVMY1qKKcn3TyxPFR6GL89jVjQIdCcABS6xoMwb\nprE9KM31K9KptpYRdNf+JsqopWQNmzlZ6/SX0R+ub30N7o/lBIsdbzHJAoGBAIvS\nEH+cFK/9+r0SsNQnQQ4Lwcs1+8yHQ6iq2F6TODenB4s98+AHhDdsrfex/HFU/474\nml9BvtU5R07G/GPz2RCGHNpo38iTrPYzpo2WV+rxpp0Nlg8rO9BRiiK2XZdsfhTI\nP98xxcyx9m+gdgRQoygM+4epgYyJetg/P84ExNqxAoGBAKoNUKDwwfkMcWSzOfkR\noCEOAhZz/DXRUScCVDZMQMIOAr71GIxWpS3IXAJMcf20SfgP4u7aJK0CtU7fPY/N\nMy+HKn1tvwazgDZMHBNxpWVln5F7q2kjdxYkI4hu07DaGP+DUfs2B6x7g5obY5Su\nOxCqxvjhrOYFuKg//45yxnPu\n-----END PRIVATE KEY-----\n",
+  "client_email": "visionapi-account@atomic-key-273611.iam.gserviceaccount.com",
+  "client_id": "107883551121085957846",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/visionapi-account%40atomic-key-273611.iam.gserviceaccount.com"
+}

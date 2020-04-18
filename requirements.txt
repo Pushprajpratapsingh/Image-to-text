@@ -1,0 +1,15 @@
+Handwriting detection with vision API:
+
+requirements:
+	python 3.x.
+	google cloud.
+
+
+Steps:
+	Enable google cloud vision API and download the token.json file which we used in our python code.
+
+	Install google cloud library.
+
+	Go in the python code and give the file location.
+	
+	Just run the code and a text file will be created in the same folder with the output.
